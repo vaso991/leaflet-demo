@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created with Vectornator (http://vectornator.io/) -->
+<svg height="100%" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 46 46" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:vectornator="http://vectornator.io" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs/>
+<g id="Untitled" vectornator:layerName="Untitled">
+<path d="M0 23C0 10.2975 10.2975 0 23 0C35.7025 0 46 10.2975 46 23C46 35.7025 35.7025 46 23 46C10.2975 46 0 35.7025 0 23Z" fill="#797bfe" fill-rule="nonzero" opacity="0.15" stroke="none" vectornator:layerName="circle"/>
+<g opacity="1" vectornator:layerName="g">
+<path d="M10 23C10 15.8203 15.8203 10 23 10C30.1797 10 36 15.8203 36 23C36 30.1797 30.1797 36 23 36C15.8203 36 10 30.1797 10 23Z" fill="#797bfe" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="circle"/>
+<path d="M10 23C10 15.8203 15.8203 10 23 10C30.1797 10 36 15.8203 36 23C36 30.1797 30.1797 36 23 36C15.8203 36 10 30.1797 10 23Z" fill="none" opacity="1" stroke="#ffffff" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1.5" vectornator:layerName="circle"/>
+</g>
+<g opacity="1" vectornator:layerName="rect">
+<clipPath clip-rule="nonzero" id="ClipPath">
+<path d="M16 16L30 16L30 16L30 30L30 30L16 30L16 30L16 16L16 16Z"/>
+</clipPath>
+<g clip-path="url(#ClipPath)">
+<path d="M28.0284 20.9292C27.4159 18.2342 25.0651 17.0209 23.0001 17.0209C23.0001 17.0209 23.0001 17.0209 22.9942 17.0209C20.9351 17.0209 18.5784 18.2284 17.9659 20.9234C17.2834 23.9334 19.1267 26.4825 20.7951 28.0867C21.4134 28.6817 22.2067 28.9792 23.0001 28.9792C23.7934 28.9792 24.5867 28.6817 25.1992 28.0867C26.8676 26.4825 28.7109 23.9392 28.0284 20.9292ZM23.0001 23.8517C21.9851 23.8517 21.1626 23.0292 21.1626 22.0142C21.1626 20.9992 21.9851 20.1767 23.0001 20.1767C24.0151 20.1767 24.8376 20.9992 24.8376 22.0142C24.8376 23.0292 24.0151 23.8517 23.0001 23.8517Z" fill="#ffffff" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="path"/>
+</g>
+</g>
+</g>
+</svg>
